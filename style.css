@@ -1,0 +1,33 @@
+body {
+  margin: auto;
+  background-image: url("https://www.okayafrica.com/media-library/wizkid-and-burna-boy-perform-at-the-o2-arena-in-december-2021.jpg?id=29585396&width=1245&height=700&quality=85&coordinates=0%2C0%2C0%2C106");
+}
+
+.wrapperC {
+  margin-top: 300px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 10px;
+  margin-bottom: 300px;
+}
+
+.key {
+  height: 50px;
+  width: 50px;
+  border: solid black;
+  background-color: transparent;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 15px;
+  padding: 10px;
+}
+
+.letter {
+  font-family: "Franklin Gothic Medium";
+  font-size: 15px;
+  color: yellow;
+  text-align: center;
+  padding: 10px;
+}
